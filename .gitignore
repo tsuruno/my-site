@@ -1,5 +1,5 @@
-# Zolaのビルド出力を無視
 /public/
+/themes/
 
 # IDEの一時ファイルを無視
 .vscode/
