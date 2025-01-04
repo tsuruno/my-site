@@ -1,0 +1,9 @@
+# Zolaのビルド出力を無視
+/public/
+
+# IDEの一時ファイルを無視
+.vscode/
+*.log
+
+# macOSで生成される不要ファイルを無視
+.DS_Store
