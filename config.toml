@@ -33,7 +33,7 @@ grid_size = "grid-lg"
 katex = true
 
 # Default author for articles
-author = "You"
+author = "mohanseii"
 
 show_author = true
 show_tags = true
@@ -74,7 +74,8 @@ active=true
 # text_snippet="Some <strong>HTML</strong> here! It's <mark>safe</mark>!"
 
 # Author card
-author_bio = "x"
+author_bio = "3年目エンジニア/趣味でグラフィックデザイン"
+
 author_avatar = "avatar.png"
 
 # Include search bar
