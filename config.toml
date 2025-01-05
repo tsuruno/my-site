@@ -1,8 +1,8 @@
 # The URL the site will be built for
 base_url = "https://subquest.jp"
 
-title = "Zhuia"
-description = "Another Zola theme, this time written with Spectre."
+title = "SubQuest"
+description = "別に必要じゃないけどあると嬉しい情報をまとめていきます"
 
 # Whether to generate a RSS feed automatically
 # generate_feeds = true

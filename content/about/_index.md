@@ -2,8 +2,9 @@
 title = "About"
 
 [extra]
-date = 2019-03-21
+date = 2025-01-05
 +++
 
-Yet another theme for yet another static site generator; that said, I hope you
-like it.
+1998年生まれ<br>
+組み込みエンジニアとグラフィックデザインでご飯を食べてます<br>
+エンジニアっぽい知識のアウトプットと、ポートフォリオをここにまとめていきます
