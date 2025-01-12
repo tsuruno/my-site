@@ -10,11 +10,16 @@ date = 2025-01-05
 {
   "name": "Tsuruno",
   "born": 1998,
+  "location": "Tokyo, Japan",
   "occupation": "Embedded Systems Engineer",
   "interests": [
     "Custom keyboard design",
     "Graphic design",
 　],
+  "motto": [
+    "Fail fast, learn faster",
+    "Focus on outcomes, not outputs"
+  ]
   "skills": [
     "Embedded systems development",
     "Automotive software engineering",
