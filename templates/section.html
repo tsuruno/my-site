@@ -1,17 +1,10 @@
-{% extends "index.html" -%}
+{% extends "base.html" %}
 
-{%- block title %}
-    <title>{{ section.title }} - {{ config.extra.author }}</title>
-{%- endblock title -%}
-
-{%- block content -%}
-    <div class="post">
-        <div class="content-title">
-            <h1 class="post-title">
-                <a href="{{ section.permalink  }}">{{ section.title }}</a>
-            </h1>
-        </div>
-
-            {{ section.content | safe }}
-    </div>
-{%- endblock content -%}
+{% block content %}
+<h1>{{ section.title }}</h1>
+{%- include "partials/statements.html" -%}
+{%- if section.extra.toc and not section.extra.toc_sidebar -%}
+{%- include "partials/toc.html" -%}
+{%- endif -%}
+{{ section.content | safe }}
+{% endblock content %}
