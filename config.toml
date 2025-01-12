@@ -7,8 +7,8 @@ minify_html = true
 generate_feeds = true
 # Only the first file will be used in the navbar feed button,
 # other feeds will still be available in page's head.
-feed_filenames = ["rss.xml", "atom.xml"]
-build_search_index = true
+# feed_filenames = ["rss.xml", "atom.xml"]
+# build_search_index = true
 author = "tsuruno"
 
 # Based on https://github.com/welpo/tabi
