@@ -2,7 +2,7 @@
 base_url = "https://subquest.jp"
 
 title = "SubQuest"
-description = "別に必要じゃないけどあると嬉しい情報をまとめていきます"
+description = "テクノロジ系の情報をまとめていきます"
 
 # Whether to generate a RSS feed automatically
 # generate_feeds = true
@@ -33,7 +33,7 @@ grid_size = "grid-lg"
 katex = true
 
 # Default author for articles
-author = "mohanseii"
+author = "tsuruno"
 
 show_author = true
 show_tags = true
@@ -60,8 +60,8 @@ main_menu = [
 
 # Social media buttons to display. You define a url and the name of the platform.
 social_links = [
-    {url = "https://twitter.com/mohanseii", name = "twitter"},
-    {url = "https://instagram.com/mohanseii", name = "instagram"},
+    # {url = "https://twitter.com/mohanseii", name = "twitter"},
+    # {url = "https://instagram.com/mohanseii", name = "instagram"},
     {url = "https://github.com/tsuruno", name = "github"},
 ]
 
@@ -74,7 +74,7 @@ active=true
 # text_snippet="Some <strong>HTML</strong> here! It's <mark>safe</mark>!"
 
 # Author card
-author_bio = "3年目エンジニア/趣味でグラフィックデザイン"
+author_bio = "趣味で自作キーボードとグラフィックデザインやってます"
 
 author_avatar = "avatar.png"
 

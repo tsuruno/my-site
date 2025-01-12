@@ -71,7 +71,7 @@ tags = ["DIY", "Keyboard", "KiCad"]
 
 3. KiCadの**フットプリントライブラリマネージャ**を開き、次の手順で追加します。
 
-   - [フットプリントライブラリ] > [追加ボタン(＋マーク)]をクリック
+   - [フットプリントライブラリ] > [追加ボタン(左下の＋マーク)]をクリック
    ![alt text](image-1.png)
 
    - 保存したライブラリディレクトリを指定し、ニックネーム(任意)と先ほどダウンロードしたリポジトリへのパスの指定を行います。
@@ -93,11 +93,11 @@ KiCadの機能を拡張するために、プラグインを追加します。
 2. 以下のプラグインを検索し、インストールします。
 
    - **Interactive BOM**: ボム(部品表)を自動生成するツール
-     - **Interactive BOM**: [公式GitHubページ](https://github.com/openscopeproject/InteractiveHtmlBom)
+     - [公式GitHubページ](https://github.com/openscopeproject/InteractiveHtmlBom)
    - **KiBuzzard**: ラベルやバッジを簡単に生成するツール
-     - **KiBuzzard**: [公式GitHubページ](https://github.com/Gasman2014/KiBuzzard)
+     - [公式GitHubページ](https://github.com/Gasman2014/KiBuzzard)
    - **JCLPCB fablication toolkit**: JLCPCB向けの製造データを効率よく準備するためのツール。製造仕様に沿ったデータ生成が簡単になる
-     - **JCLPCB fabrication toolkit**: [公式GitHubページ](https://github.com/bouni/kicad-jlcpcb-tools)
+     - [公式GitHubページ](https://github.com/bouni/kicad-jlcpcb-tools)
 
 3. プラグインの設定については、各プラグインの公式ドキュメントやGitHubページを参照してください。
 
