@@ -64,15 +64,18 @@ poor = true
 1. 以下のリンクからキーボード用のフットプリントライブラリをダウンロードします。
 リポジトリ丸ごとダウンロードしちゃいましょう。
 
+   - [KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint)
+     - Salicylic_kbd.libにパスを通して下さい。
    - [foostan/kbd](https://github.com/foostan/kbd)
    - [ai03-2725/random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty)
    - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty)
+     - .prettyのパスを通してあげて下さい
 
    この中に無い部品を追加したい場合は、一度公式情報を探すとフットプリントが公開されている場合があるので、探すことをお勧めします。
 
-2. ダウンロードしたライブラリを任意のローカルディレクトリに保存します。
+1. ダウンロードしたライブラリを任意のローカルディレクトリに保存します。
 
-3. KiCadの**フットプリントライブラリマネージャ**を開き、次の手順で追加します。
+2. KiCadの**フットプリントライブラリマネージャ**を開き、次の手順で追加します。
 
    - [フットプリントライブラリ] > [追加ボタン(左下の＋マーク)]をクリック
    ![alt text](image-1.png)
