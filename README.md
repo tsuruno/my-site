@@ -10,3 +10,4 @@ This is my personal blog built with [Zola](https://www.getzola.org/).
    ```bash
    git clone https://github.com/tsuruno/my-site.git
    cd my-site
+   zola serve
