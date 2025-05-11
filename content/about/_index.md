@@ -1,11 +1,11 @@
 +++
 title = "About"
-
-[extra]
-date = 2025-01-05
 +++
 
-{% crt() %}
+- [GitHub](https://github.com/tsuruno)
+
+- [Twitter](https://twitter.com/mohanseii)
+
 ```
 {
   "name": "Tsuruno",
@@ -28,11 +28,7 @@ date = 2025-01-05
     "Blender 3D"
   ],
   "goals": [
-    "Work with a flexible schedule"
-  ],
-  "languages": [
-    "Japanese",
-    "English(soso)"
+    ""
   ],
   "current_projects": [
     "Custom keyboard design",
@@ -40,5 +36,3 @@ date = 2025-01-05
   ]
 }
 ```
-
-{% end %}

@@ -1,5 +1,5 @@
 /public/
-/themes/
+# /themes/
 
 # IDEの一時ファイルを無視
 .vscode/
